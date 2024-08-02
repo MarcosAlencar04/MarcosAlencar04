@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Marcos Alencar!
 
-<!--
-**MarcosAlencar04/MarcosAlencar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏼‍🎓 Studying Computer Science at Unioeste (Foz do Iguaçu, PR, Brazil)
+- 📚 Currently learning about Kafka, python and getting better with java
+- 📨 Contact: marcos.12.01.07@gmail.com 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Stats on Git Hub
+<!--<div>
+  <a href="https://github.com/MarcosAlencar04"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=MarcosAlencar04&count_private=true&show_icons=true&theme=dark&hide_rank=false" />
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosAlencar04&show_icons=true&locale=en&layout=compact&theme=dark" />
+</div> -->
+<div>
+  <a href="https://github.com/MarcosAlencar04"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosAlencar04&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Marcos's github stats"/>
+  <a href="https://github.com/MarcosAlencar04"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlencar04&layout=compact&theme=buefy&hide_border=true"/>
+</div>
+
+
