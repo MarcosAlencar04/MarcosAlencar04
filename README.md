@@ -7,16 +7,11 @@
 ---
 
 ### 📊 My Stats on Git Hub
-<!--<div>
-  <a href="https://github.com/MarcosAlencar04"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=MarcosAlencar04&count_private=true&show_icons=true&theme=dark&hide_rank=false" />
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosAlencar04&show_icons=true&locale=en&layout=compact&theme=dark" />
-</div> -->
-<div>
-  <a href="https://github.com/MarcosAlencar04"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosAlencar04&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Marcos's github stats"/>
-  <a href="https://github.com/MarcosAlencar04"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlencar04&layout=compact&theme=buefy&hide_border=true"/>
-</div>
+<a href="https://github.com/MarcosAlencar04"/>
+<img src="https://github-readme-stats-marcos-alencars-projects.vercel.app/api?username=MarcosAlencar04&count_private=true&include_all_comits=true&show_icons=true&theme=dark" height="150cm"/>
+<img src="https://github-readme-stats-marcos-alencars-projects.vercel.app/api/top-langs/?username=MarcosAlencar04&&show_icons=true&locale=en&layout=compact&theme=dark" height="130cm"/>
 
-
+<!--
+<img src="https://github-readme-stats-marcos-alencars-projects.vercel.app/api?username=MarcosAlencar04&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" height="180cm"/>
+<img src="https://github-readme-stats-marcos-alencars-projects.vercel.app/api/top-langs/?username=MarcosAlencar04&layout=compact&theme=dark&hide_border=true" height="100cm"/>
+    -->
