@@ -11,8 +11,7 @@
 </div>
 
 ## My tech stack
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -30,15 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
----
+## Social Media
 
-<img src="https://raw.githubusercontent.com/MarcosAlencar04/MarcosAlencar04/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
----
+- <img alt="Linkedin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /> [LinkedIn](https://www.linkedin.com/in/marcos-alencar-64b031288/) - Check out my profile and connect with me on LinkedIn
+- <img alt="Instagram" width="20px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" /> [Instagram](https://www.instagram.com/alencar_marquin) - Join me on Instagram to see more personal stuff and get in touch
