@@ -1,7 +1,7 @@
 ### Hi, I'm Marcos Alencar!
 
 - 👨🏼‍🎓 Studying Computer Science at Unioeste (Foz do Iguaçu, PR, Brazil)
-- 📚 Currently learning about Kafka, python and getting better with java
+- 📚 Currently learning about Kafka, python and getting better with python, java and frameworks
 - 📨 Contact: marcos.12.01.07@gmail.com 
 
 
