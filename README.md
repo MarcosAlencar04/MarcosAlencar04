@@ -1,8 +1,8 @@
 ### Hi, I'm Marcos Alencar!
 
 - 👨🏼‍🎓 Studying Computer Science at Unioeste (Foz do Iguaçu, PR, Brazil)
-- 📚 Currently learning about Kafka, python and getting better with python, java and frameworks
-- 📨 Contact: marcos.12.01.07@gmail.com 
+- 📚 Currently learning about NestJs, TypeScript and get better with java and another frameworks
+- 📨 Contact: marcos.12.01.07@gmail.com  
 
 
 ## 📊 My Stats on Git Hub
