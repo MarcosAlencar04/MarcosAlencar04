@@ -9,7 +9,7 @@
 - 👨🏼‍💻 Full-Stack Developer at **H2O Innovation** (Grupo Sarabia), building the **YVY** Digital Agriculture platform
 - 🎓 Computer Science graduate from **Unioeste** (Foz do Iguaçu, PR, Brazil)
 - 🌱 Currently diving deeper into **Vertical Slice Architecture**, **DDD**, **Kafka** and **AI agents/skills for test automation**
-- 🌎 Languages: Portuguese (native), English (advanced), Spanish (basic), French (beginner)
+- 🌎 Languages: Portuguese (native), English (advanced), Spanish (basic)
 - 📨 Contact: marcos.12.01.07@gmail.com
 
 
